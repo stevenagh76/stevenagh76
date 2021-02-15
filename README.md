@@ -2,7 +2,7 @@
   - 👀 I’m interested in Cybersecurity and webdesign
     - 🌱 I’m currently learning mircotoxins
 
-    - cout<<"contact me:>>;
+    - cout<<"contact me: ";
   - 📫 How to reach me steven_aghnatios@hotmail.com 
 - 📫 How to reach me stevencharbel@gmail.com.com 
 
