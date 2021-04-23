@@ -1,3 +1,5 @@
+
+-Slow-Loris DOS youcan run this in eather linux or windows but make sure python is instaled globaly on your device.
 - 👋 Hi, I’m @stevenagh76
   - 👀 I’m interested in Cybersecurity and webdesign
     - 🌱 I’m currently learning mircotoxins
